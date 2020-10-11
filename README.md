@@ -7,6 +7,7 @@ concepts :
 - [x] functions
 - [x] lists
 - [x] patterns
+- [x] oops
 
 
 ![Python](pythonlogo.jpg)
