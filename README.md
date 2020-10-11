@@ -8,6 +8,7 @@ concepts :
 - [x] lists
 - [x] patterns
 - [x] oops
+- [x] Python Dictionaries
 
 
 ![Python](pythonlogo.jpg)
