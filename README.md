@@ -8,6 +8,7 @@ concepts :
 - [x] lists
 - [x] patterns
 - [x] oops
+- [x] Strings
 
 
 ![Python](pythonlogo.jpg)
