@@ -1,6 +1,12 @@
-# python-practice-codes
-Total collection of all python codes written during college.
+# Practice-Python
+Collection of all the python programs written throughout the college.
 
 # Question based on following concepts
 concepts :
+- [x] file handling
 - [x] functions
+
+
+
+
+![Python](pythonlogo.jpg)
